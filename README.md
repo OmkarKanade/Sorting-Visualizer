@@ -11,4 +11,4 @@ There are 5 sorting algorithms are visualized
 - Merge Sort
 
 ## Live Demo
-- [CPU Scheduling](https://omkarkanade.github.io/Sorting-Visualizer/)
+- [Sorting Visualizer](https://omkarkanade.github.io/Sorting-Visualizer/)
