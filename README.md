@@ -12,3 +12,9 @@ There are 5 sorting algorithms are visualized
 
 ## Live Demo
 - [Sorting Visualizer](https://omkarkanade.github.io/Sorting-Visualizer/)
+
+## Screenshots
+<img src="Output/1.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="Output/2.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="Output/3.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+<img src="Output/4.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
