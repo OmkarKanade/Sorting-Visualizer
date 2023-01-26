@@ -10,6 +10,9 @@ There are 5 sorting algorithms are visualized
 - Quick Sort
 - Merge Sort
 
+## Demo Video
+- [Sorting Visualizer](https://omkarkanade.github.io/Sorting-Visualizer/demo.html)
+
 ## Live Demo
 - [Sorting Visualizer](https://omkarkanade.github.io/Sorting-Visualizer/)
 
