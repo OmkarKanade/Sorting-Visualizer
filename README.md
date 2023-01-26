@@ -11,7 +11,7 @@ There are 5 sorting algorithms are visualized
 - Merge Sort
 
 ## Demo Video
-- [Sorting Visualizer](https://omkarkanade.github.io/Sorting-Visualizer/demo.html)
+- [Sorting Visualizer](https://omkarkanade.github.io/Sorting-Visualizer/demo.html){:target="_blank" rel="noopener"}
 
 ## Live Demo
 - [Sorting Visualizer](https://omkarkanade.github.io/Sorting-Visualizer/)
