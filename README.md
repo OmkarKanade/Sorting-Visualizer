@@ -37,6 +37,9 @@ There are 5 sorting algorithms are visualized
 
 <img src="Output/8SV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
 
+### Working Demo Video
+<img src="Output/WSV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
 ## Screenshots
 <img src="Output/1.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
 <img src="Output/2.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
