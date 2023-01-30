@@ -19,19 +19,22 @@ There are 5 sorting algorithms are visualized
 ## Azure Services
 <img src="Output/1SV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
 
-# Static Web App
+## Static Web App
 <img src="Output/2SV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
 <img src="Output/3SV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
 
-# Media Services
+## Media Services
 <img src="Output/4SV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
 
-Media User
+### Media User
 <img src="Output/5SV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
 <img src="Output/6SV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
 
-Media Storage
+### Media Storage
 <img src="Output/7SV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
+
 <img src="Output/8SV.jpg" alt="Screenshot" style="padding:15px; width:60%; height:60%"/>
 
 ## Screenshots
